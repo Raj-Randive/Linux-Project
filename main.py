@@ -1,6 +1,8 @@
 def printMsg(msg):
-    # Adding another comment which has its own meaning.		
-    # printing a message		
+    # No comments needed as of now		
     print(msg)
+
+def second():
+    print("Second Function")
 
 print("Hello Raj")
